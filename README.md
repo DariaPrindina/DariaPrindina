@@ -26,7 +26,9 @@
 
 **Fullstack developer**
 <br>
-Развиваюсь во всех интересных мне направлениях, а таковых много
+- Развиваюсь в качестве fullstack разработчика во всех интересных мне направлениях для создания веб сайтов и приложений
+<br>
+- В свободное время люблю читать ~~документацию~~ художественную и профильную литературу
 
 ### Languages and Tools :
 
@@ -55,3 +57,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-plain.svg" title="postman" alt="postman" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;
 </div>
+
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DariaPrindina&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
