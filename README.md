@@ -32,7 +32,7 @@
 - :bulb: С большим интересом погружаюсь в новые проекты и поглощаю новую информацию;
 - :fire: <ins>Нахожусь в поиске работы и веселого коллектива</ins>;
 
-### Languages and Tools :
+### :wrench: Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html" alt="html" width="40" height="40"/>&nbsp;
