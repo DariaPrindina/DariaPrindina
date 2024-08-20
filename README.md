@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b7611e0jq24wzerbeg8qorrhftvwyxpx554e9652g1kei&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="250"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b7611e0jq24wzerbeg8qorrhftvwyxpx554e9652g1kei&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="350"/>
 
   <div id="badges" align="center">
     <a href="https://t.me/darht_vadr">
@@ -26,10 +26,11 @@
 
 **Fullstack developer**
 
-:computer: Развиваюсь в качестве fullstack разработчика во всех интересных мне направлениях для создания веб сайтов и приложений <br>
-:open_book: В свободное время увлекаюсь чтением ~~документации~~ художественной и технической литературы, изучением корейского языка, микроэлектроникой и печатью на 3д принтере<br>
-:bulb: С большим интересом погружаюсь к новым проектам и новой информации <br>
-:fire: <ins>Нахожусь в поиске работы и веселого коллектива</ins>
+:computer: Развиваюсь в качестве fullstack разработчика во всех интересных мне направлениях для создания веб сайтов и приложений;<br>
+:open_book: В свободное время увлекаюсь чтением ~~документации~~ художественной и технической литературы,<br>
+&nbsp; &nbsp; &nbsp; изучением корейского языка, микроэлектроникой и печатью на 3д принтере;<br>
+:bulb: С большим интересом погружаюсь к новым проектам и новой информации;<br>
+:fire: <ins>Нахожусь в поиске работы и веселого коллектива</ins>;
 
 ### Languages and Tools :
 
