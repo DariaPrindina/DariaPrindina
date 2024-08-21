@@ -19,8 +19,15 @@
     </svg>
   </div>
 
-  <img width="100" src="https://media.giphy.com/media/Xy6nEr568Vy9WAofEI/giphy.gif?cid=790b7611krcx1d7h1pp5imqitkx4itc1491bm5h207o80260&ep=v1_stickers_search&rid=giphy.gif&ct=ts"/>
+  
+
+<div width="200px">
+  <img width="200px" src="https://media.giphy.com/media/wE25OOxuEG2cnbAAgo/giphy.gif?cid=ecf05e47ykwb0alisbhd0jt5sfqcfcqox1gcr1tu804t2muo&ep=v1_stickers_search&rid=giphy.gif&ct=s"/>
 </div>
+<img width="100" src="https://media.giphy.com/media/Xy6nEr568Vy9WAofEI/giphy.gif?cid=790b7611krcx1d7h1pp5imqitkx4itc1491bm5h207o80260&ep=v1_stickers_search&rid=giphy.gif&ct=ts"/>
+</div>
+
+
 
 ### :woman_technologist: About Me :
 
